@@ -239,4 +239,3 @@ int main() {
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
- 
